@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 1rem;
+  align-items: center;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-main);
+}
+
+:root {
+  --color-main: rgb(134, 191, 196);
+  ---color-head: rgb(84, 153, 158);
+  ---color-inside: rgb(175, 228, 233);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    background-color: aliceblue;
+}
+
+#freeCodeCamp Logo{
+  font-size: 2rem;
+}
